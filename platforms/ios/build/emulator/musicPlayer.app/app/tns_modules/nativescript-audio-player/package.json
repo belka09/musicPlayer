@@ -1,0 +1,183 @@
+{
+  "_args": [
+    [
+      "nativescript-audio-player@1.0.3",
+      "/Users/dzmitrytsurankou/Downloads/musicPlayer"
+    ]
+  ],
+  "_from": "nativescript-audio-player@1.0.3",
+  "_id": "nativescript-audio-player@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha1-X4TrjZH+HytpbI2/U0d/i/FnPO8=",
+  "_location": "/nativescript-audio-player",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "nativescript-audio-player@1.0.3",
+    "name": "nativescript-audio-player",
+    "escapedName": "nativescript-audio-player",
+    "rawSpec": "1.0.3",
+    "saveSpec": null,
+    "fetchSpec": "1.0.3"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-audio-player/-/nativescript-audio-player-1.0.3.tgz",
+  "_spec": "1.0.3",
+  "_where": "/Users/dzmitrytsurankou/Downloads/musicPlayer",
+  "author": {
+    "name": "Adam Denoon",
+    "email": "denoon@pm.me",
+    "url": "https://github.com/adamdenoon"
+  },
+  "bugs": {
+    "url": "https://github.com/adamdenoon/nativescript-audio-player/issues"
+  },
+  "contributors": [
+    {
+      "name": "Nathan Walker",
+      "email": "walkerrunpdx@gmail.com",
+      "url": "https://github.com/NathanWalker"
+    },
+    {
+      "name": "Jibon Lawrence Costa",
+      "url": "https://github.com/jibon57"
+    },
+    {
+      "name": "Dylan Ryan",
+      "url": "https://github.com/dylanryan"
+    },
+    {
+      "name": "Alexander Vakrilov",
+      "url": "https://github.com/vakrilov"
+    },
+    {
+      "name": "GT Nunes",
+      "url": "https://github.com/gtnunes1956"
+    },
+    {
+      "name": "Andrea Sotto",
+      "url": "https://github.com/andreasotto"
+    },
+    {
+      "name": "August Heegaard",
+      "url": "https://github.com/agisboye"
+    },
+    {
+      "name": "Akmal Sultonov",
+      "url": "https://github.com/asultonov"
+    },
+    {
+      "name": "Amit Gharat",
+      "url": "https://github.com/codef0rmer"
+    },
+    {
+      "name": "Jen Looper",
+      "url": "https://github.com/jlooper"
+    },
+    {
+      "name": "Stanimira Vlaeva",
+      "url": "https://github.com/sis0k0"
+    },
+    {
+      "name": "Osei Fortune",
+      "url": "https://github.com/triniwiz"
+    },
+    {
+      "name": "RedPandaTronics",
+      "url": "https://github.com/redpandatronicsuk"
+    },
+    {
+      "name": "Chris Flannagan",
+      "url": "https://github.com/ChrisFlannagan"
+    },
+    {
+      "name": "mfrro",
+      "url": "https://github.com/mfrro"
+    },
+    {
+      "name": "Richard Smith",
+      "url": "https://github.com/DickSmith"
+    },
+    {
+      "name": "Brad Martin",
+      "url": "https://github.com/BradMartin"
+    }
+  ],
+  "description": "NativeScript plugin to play audio.",
+  "devDependencies": {
+    "husky": "^0.14.3",
+    "lint-staged": "^7.0.4",
+    "prettier": "^1.12.1",
+    "rimraf": "^2.5.0",
+    "tns-core-modules": "^4.0.0",
+    "tns-platform-declarations": "^4.0.0",
+    "tslint": "~5.9.1",
+    "typescript": "~2.8.1"
+  },
+  "homepage": "https://github.com/adamdenoon/nativescript-audio-player",
+  "keywords": [
+    "NativeScript",
+    "JavaScript",
+    "TypeScript",
+    "Android",
+    "iOS",
+    "music",
+    "audio",
+    "nStudio",
+    "bradmartin",
+    "nathanwalker",
+    "adamdenoon"
+  ],
+  "license": "MIT",
+  "lint-staged": {
+    "*.ts": [
+      "prettier --write",
+      "git add"
+    ]
+  },
+  "main": "audio",
+  "name": "nativescript-audio-player",
+  "nativescript": {
+    "platforms": {
+      "android": "3.0.0",
+      "ios": "3.0.0"
+    }
+  },
+  "peerDependencies": {
+    "tns-core-modules": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamdenoon/nativescript-audio-player.git"
+  },
+  "scripts": {
+    "build": "npm i && npm run tsc",
+    "ci.tslint": "npm i && tslint '**/*.ts' --config '../tslint.json' --exclude '**/node_modules/**'",
+    "demo.android": "npm i && npm run tsc && cd ../demo && tns run android --syncAllFiles",
+    "demo.ios": "npm run preparedemo && cd ../demo && tns run ios --syncAllFiles",
+    "demo.ios.device": "npm run preparedemo && cd ../demo && tns platform remove ios && tns run ios",
+    "demo.reset": "cd ../demo && rimraf platforms",
+    "development.setup": "npm run setup && npm link && cd ../demo && npm link nativescript-floatingactionbutton && cd ../src",
+    "generate.typings.ios": "cd ../demo && TNS_DEBUG_METADATA_PATH=\"$(pwd)/metadata\" tns build ios && TNS_TYPESCRIPT_DECLARATIONS_PATH=\"$(pwd)/typings\" tns build ios && echo 'Now look for your library typings in demo/typings!'",
+    "link": "npm i && cd ../demo && npm i && cd ../src && npm run plugin.link",
+    "plugin.link": "npm link && cd ../demo && npm link nativescript-audio-player && cd ../src",
+    "plugin.tscwatch": "npm run tsc -- -w",
+    "precommit": "lint-staged",
+    "preparedemo": "npm run build && cd ../demo && tns plugin remove nativescript-audio-player && tns plugin add ../src && tns install",
+    "prepublishOnly": "npm run build",
+    "setup": "npm run build && cd ../demo && npm i",
+    "setupandinstall": "npm i && cd ../demo && npm i && cd ../src && npm run build && cd ../demo && tns plugin add ../src && cd ../src",
+    "test": "npm run tslint && npm run tslint.demo && cd ../demo && tns build ios && tns build android",
+    "test.android": "cd ../demo && tns platform remove android && tns test android --justlaunch",
+    "test.ios": "cd ../demo && tns platform remove ios && tns test ios --emulator",
+    "test.ios.device": "cd ../demo && tns platform remove ios && tns test ios",
+    "tsc": "tsc -skipLibCheck",
+    "tslint": "tslint --config '../tslint.json' '*.ts' --exclude '**/node_modules/**'",
+    "tslint.demo": "tslint --config '../tslint.json' '../demo/app/*.ts' --exclude '**/node_modules/**'"
+  },
+  "typings": "index.d.ts",
+  "version": "1.0.3"
+}

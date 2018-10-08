@@ -1,0 +1,1 @@
+/Users/dmitryzimnitsky/Documents/musicPlayer/musicPlayer/platforms/android/app/src/main/assets/app

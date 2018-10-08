@@ -1,0 +1,288 @@
+{
+  "status": "ok",
+  "count": 5,
+  "count_total": 137,
+  "pages": 28,
+  "posts": [
+    {
+      "id": 5187,
+      "slug": "getting-unstuck",
+      "url": "https://bodyofchristchurch.org/sermons/getting-unstuck/",
+      "status": "publish",
+      "title": "Getting Unstuck",
+      "content": "",
+      "custom_fields": {},
+      "format": "audio/mpeg",
+      "size": "17602782",
+      "image": "",
+      "type": "ctc_sermon",
+      "enclosure": "https://bodyofchristchurch.org/wp-content/uploads/2018/09/Sermon-9-16-18.mp3",
+      "taxonomy_ctc_sermon_topic": [
+        {
+          "id": 229,
+          "slug": "getting-unstuck",
+          "title": "Getting Unstuck",
+          "description": "",
+          "parent": 0,
+          "post_count": 1
+        }
+      ],
+      "taxonomy_ctc_sermon_speaker": [
+        {
+          "id": 87,
+          "slug": "pastor-kelvin-redmond",
+          "title": "Pastor Kelvin Redmond",
+          "description": "",
+          "parent": 0,
+          "post_count": 120
+        }
+      ]
+    },
+    {
+      "id": 5182,
+      "slug": "stuck-in-a-rut",
+      "url": "https://bodyofchristchurch.org/sermons/stuck-in-a-rut/",
+      "status": "publish",
+      "title": "Stuck in A Rut",
+      "content": "<p>Acts 16:16-20</p>\n<div id=\"attachment_5183\" style=\"width: 310px\" class=\"wp-caption aligncenter\"><img class=\"size-medium wp-image-5183\" src=\"https://bodyofchristchurch.org/wp-content/uploads/2018/09/20180909_105949-300x213.jpg\" alt=\"Stuck in A Rut\" width=\"300\" height=\"213\" srcset=\"https://bodyofchristchurch.org/wp-content/uploads/2018/09/20180909_105949-300x213.jpg 300w, https://bodyofchristchurch.org/wp-content/uploads/2018/09/20180909_105949-768x545.jpg 768w, https://bodyofchristchurch.org/wp-content/uploads/2018/09/20180909_105949-1024x727.jpg 1024w, https://bodyofchristchurch.org/wp-content/uploads/2018/09/20180909_105949-500x355.jpg 500w, https://bodyofchristchurch.org/wp-content/uploads/2018/09/20180909_105949-600x426.jpg 600w, https://bodyofchristchurch.org/wp-content/uploads/2018/09/20180909_105949-940x667.jpg 940w, https://bodyofchristchurch.org/wp-content/uploads/2018/09/20180909_105949-30x20.jpg 30w, https://bodyofchristchurch.org/wp-content/uploads/2018/09/20180909_105949.jpg 1289w\" sizes=\"(max-width: 300px) 100vw, 300px\" /><p class=\"wp-caption-text\">Stuck in A Rut</p></div>\n",
+      "custom_fields": {},
+      "format": "audio/mpeg",
+      "size": "15990351",
+      "image": "https://bodyofchristchurch.org/wp-content/uploads/2018/09/20180909_105949-300x213.jpg",
+      "type": "ctc_sermon",
+      "enclosure": "https://bodyofchristchurch.org/wp-content/uploads/2018/09/Sermon-9-9-18.mp3",
+      "taxonomy_ctc_sermon_topic": [
+        {
+          "id": 228,
+          "slug": "stuck-in-a-rut",
+          "title": "Stuck in A Rut",
+          "description": "",
+          "parent": 0,
+          "post_count": 1
+        }
+      ],
+      "taxonomy_ctc_sermon_book": [
+        {
+          "id": 19,
+          "slug": "acts",
+          "title": "Acts",
+          "description": "",
+          "parent": 0,
+          "post_count": 8
+        }
+      ],
+      "taxonomy_ctc_sermon_speaker": [
+        {
+          "id": 87,
+          "slug": "pastor-kelvin-redmond",
+          "title": "Pastor Kelvin Redmond",
+          "description": "",
+          "parent": 0,
+          "post_count": 120
+        }
+      ]
+    },
+    {
+      "id": 5167,
+      "slug": "a-good-theology-of-work",
+      "url": "https://bodyofchristchurch.org/sermons/a-good-theology-of-work/",
+      "status": "publish",
+      "title": "A Good theology of work",
+      "content": "<p>1. Total dependence of God<br />\n2. Intentional<br />\n3. Integrity<br />\n4. Illumination<br />\n5. Impression and impact<br />\n6. Improve<br />\n7. Gratitude</p>\n<div id=\"attachment_5169\" style=\"width: 310px\" class=\"wp-caption aligncenter\"><img class=\"wp-image-5169 size-medium\" src=\"https://bodyofchristchurch.org/wp-content/uploads/2018/09/20180902_094838-e1535921038461-300x235.jpg\" alt=\"A Good theology for work\" width=\"300\" height=\"235\" srcset=\"https://bodyofchristchurch.org/wp-content/uploads/2018/09/20180902_094838-e1535921038461-300x235.jpg 300w, https://bodyofchristchurch.org/wp-content/uploads/2018/09/20180902_094838-e1535921038461-768x601.jpg 768w, https://bodyofchristchurch.org/wp-content/uploads/2018/09/20180902_094838-e1535921038461-500x391.jpg 500w, https://bodyofchristchurch.org/wp-content/uploads/2018/09/20180902_094838-e1535921038461-600x470.jpg 600w, https://bodyofchristchurch.org/wp-content/uploads/2018/09/20180902_094838-e1535921038461-940x736.jpg 940w, https://bodyofchristchurch.org/wp-content/uploads/2018/09/20180902_094838-e1535921038461.jpg 1022w\" sizes=\"(max-width: 300px) 100vw, 300px\" /><p class=\"wp-caption-text\">A Good theology for work</p></div>\n<p>Mobile download click hold audio button. Computer just click download.</p>\n",
+      "custom_fields": {},
+      "format": "audio/mpeg",
+      "size": "20430174",
+      "image": "https://bodyofchristchurch.org/wp-content/uploads/2018/09/20180902_094838-e1535921038461-300x235.jpg",
+      "type": "ctc_sermon",
+      "enclosure": "https://bodyofchristchurch.org/wp-content/uploads/2018/09/A-Good-Theology-of-work.mp3",
+      "taxonomy_ctc_sermon_topic": [
+        {
+          "id": 227,
+          "slug": "a-good-theology-of-work",
+          "title": "A Good theology of work",
+          "description": "",
+          "parent": 0,
+          "post_count": 1
+        }
+      ],
+      "taxonomy_ctc_sermon_book": [
+        {
+          "id": 19,
+          "slug": "acts",
+          "title": "Acts",
+          "description": "",
+          "parent": 0,
+          "post_count": 8
+        },
+        {
+          "id": 100,
+          "slug": "colossians",
+          "title": "Colossians",
+          "description": "",
+          "parent": 0,
+          "post_count": 4
+        },
+        {
+          "id": 196,
+          "slug": "ephesians",
+          "title": "Ephesians",
+          "description": "",
+          "parent": 0,
+          "post_count": 2
+        },
+        {
+          "id": 32,
+          "slug": "genesis",
+          "title": "Genesis",
+          "description": "",
+          "parent": 0,
+          "post_count": 2
+        },
+        {
+          "id": 114,
+          "slug": "hebrews",
+          "title": "Hebrews",
+          "description": "",
+          "parent": 0,
+          "post_count": 6
+        },
+        {
+          "id": 36,
+          "slug": "isaiah",
+          "title": "Isaiah",
+          "description": "",
+          "parent": 0,
+          "post_count": 2
+        },
+        {
+          "id": 110,
+          "slug": "job",
+          "title": "Job",
+          "description": "",
+          "parent": 0,
+          "post_count": 2
+        },
+        {
+          "id": 93,
+          "slug": "john",
+          "title": "John",
+          "description": "",
+          "parent": 0,
+          "post_count": 11
+        },
+        {
+          "id": 205,
+          "slug": "philippians",
+          "title": "Philippians",
+          "description": "",
+          "parent": 0,
+          "post_count": 2
+        }
+      ],
+      "taxonomy_ctc_sermon_speaker": [
+        {
+          "id": 87,
+          "slug": "pastor-kelvin-redmond",
+          "title": "Pastor Kelvin Redmond",
+          "description": "",
+          "parent": 0,
+          "post_count": 120
+        }
+      ]
+    },
+    {
+      "id": 5162,
+      "slug": "fix-my-life",
+      "url": "https://bodyofchristchurch.org/sermons/fix-my-life/",
+      "status": "publish",
+      "title": "Fix my Life",
+      "content": "<p>RealityTv.God pt6<br />\n[USM_form] </p>\n",
+      "custom_fields": {},
+      "format": "audio/mpeg",
+      "size": "25233500",
+      "image": "",
+      "type": "ctc_sermon",
+      "enclosure": "https://bodyofchristchurch.org/wp-content/uploads/2018/08/01-The-After-Hours-Dope-1.mp3",
+      "taxonomy_ctc_sermon_topic": [
+        {
+          "id": 226,
+          "slug": "fix-my-life",
+          "title": "Fix my life",
+          "description": "",
+          "parent": 0,
+          "post_count": 1
+        }
+      ],
+      "taxonomy_ctc_sermon_series": [
+        {
+          "id": 220,
+          "slug": "reality-tv-god",
+          "title": "Reality tv .GOD",
+          "description": "",
+          "parent": 0,
+          "post_count": 6
+        }
+      ],
+      "taxonomy_ctc_sermon_speaker": [
+        {
+          "id": 87,
+          "slug": "pastor-kelvin-redmond",
+          "title": "Pastor Kelvin Redmond",
+          "description": "",
+          "parent": 0,
+          "post_count": 120
+        }
+      ]
+    },
+    {
+      "id": 5157,
+      "slug": "the-great-secret",
+      "url": "https://bodyofchristchurch.org/sermons/the-great-secret/",
+      "status": "publish",
+      "title": "The Great Secret !!!",
+      "content": "<div id=\"attachment_5159\" style=\"width: 297px\" class=\"wp-caption aligncenter\"><img src=\"https://bodyofchristchurch.org/wp-content/uploads/2018/08/secret.jpg\" alt=\"The Great Secret\" width=\"287\" height=\"176\" class=\"size-full wp-image-5159\" /><p class=\"wp-caption-text\">The Great Secret<br /></p></div>\n",
+      "custom_fields": {},
+      "format": "audio/mpeg",
+      "size": "21299202",
+      "image": "https://bodyofchristchurch.org/wp-content/uploads/2018/08/secret.jpg",
+      "type": "ctc_sermon",
+      "enclosure": "https://bodyofchristchurch.org/wp-content/uploads/2018/08/Sermon-8-19-18.mp3",
+      "taxonomy_ctc_sermon_topic": [
+        {
+          "id": 225,
+          "slug": "the-great-secret",
+          "title": "The Great Secret",
+          "description": "",
+          "parent": 0,
+          "post_count": 1
+        }
+      ],
+      "taxonomy_ctc_sermon_series": [
+        {
+          "id": 220,
+          "slug": "reality-tv-god",
+          "title": "Reality tv .GOD",
+          "description": "",
+          "parent": 0,
+          "post_count": 6
+        }
+      ],
+      "taxonomy_ctc_sermon_speaker": [
+        {
+          "id": 87,
+          "slug": "pastor-kelvin-redmond",
+          "title": "Pastor Kelvin Redmond",
+          "description": "",
+          "parent": 0,
+          "post_count": 120
+        }
+      ]
+    }
+  ],
+  "query": {
+    "ignore_sticky_posts": true,
+    "post_type": "ctc_sermon",
+    "posts_per_page": "5",
+    "order": "desc"
+  }
+}

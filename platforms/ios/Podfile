@@ -1,0 +1,13 @@
+use_frameworks!
+
+target "musicPlayer" do
+# Begin Podfile - /Users/dmitryzimnitsky/Documents/musicPlayer/musicPlayer/node_modules/nativescript-ezaudio/platforms/ios/Podfile 
+ use_frameworks!
+pod 'EZAudio', '~> 1.1.5' 
+ # End Podfile 
+# Begin Podfile - /Users/dzmitrytsurankou/Downloads/musicPlayer/node_modules/nativescript-ezaudio/platforms/ios/Podfile 
+ use_frameworks!
+pod 'EZAudio', '~> 1.1.5' 
+ # End Podfile 
+
+end

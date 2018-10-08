@@ -1,0 +1,9 @@
+{
+	"nativescript-audio": {
+		"/Users/dmitryzimnitsky/Documents/musicPlayer/musicPlayer/node_modules/nativescript-audio/platforms/android/AndroidManifest.xml": "00004bc4c425b6dbe747ad3cb9ff274f22a0ddb5",
+		"/Users/dmitryzimnitsky/Documents/musicPlayer/musicPlayer/node_modules/nativescript-audio/platforms/android/nativescript_audio.aar": "61e5eeabb23d578ccc5e4bca8871da98f168e965"
+	},
+	"tns-core-modules-widgets": {
+		"/Users/dmitryzimnitsky/Documents/musicPlayer/musicPlayer/node_modules/tns-core-modules-widgets/platforms/android/widgets-release.aar": "402875596039fd16198e0e4adbb85e44a4ff148d"
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"time": "Fri Oct 05 2018 18:30:06 GMT+0300 (Moscow Standard Time)",
+	"nativePlatformStatus": "3",
+	"bundle": false,
+	"release": false,
+	"changesRequireBuild": false,
+	"projectFileHash": "34b000f2e5f698ab256534922fea37c4db05570e43ec3dff09235a6e261fdb26",
+	"changesRequireBuildTime": "Fri Oct 05 2018 18:04:38 GMT+0300 (Moscow Standard Time)",
+	"appFilesHashes": {
+		"/Users/dzmitrytsurankou/Downloads/musicPlayer/app/item/items.component.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+		"/Users/dzmitrytsurankou/Downloads/musicPlayer/app/.DS_Store": "dd732dca5a04dda70dc45b9b1ea1e622699cf030",
+		"/Users/dzmitrytsurankou/Downloads/musicPlayer/app/app.component.html": "417cb0a885594a8a026a6aa080d4b9196a94b88b",
+		"/Users/dzmitrytsurankou/Downloads/musicPlayer/app/app.component.js": "827080ce1aa4241e0ab2831ff97cb2cf87de0e71",
+		"/Users/dzmitrytsurankou/Downloads/musicPlayer/app/app.component.ts": "afb2af1fcde98ab3cc9f1010f946240702c8f9fc",
+		"/Users/dzmitrytsurankou/Downloads/musicPlayer/app/app.css": "24f81ff5c41798f4671899fdc9d85993fbf27059",
+		"/Users/dzmitrytsurankou/Downloads/musicPlayer/app/app.module.js": "2e1723873213b2eafa777f5758ba71cc2e492c6d",
+		"/Users/dzmitrytsurankou/Downloads/musicPlayer/app/app.module.ngfactory.d.ts": "efd772f80676035988b3a2fc2b249d24a9b13f5c",
+		"/Users/dzmitrytsurankou/Downloads/musicPlayer/app/app.module.ts": "9524ea5ceed20688cc65a1de7f32e5f868a74c82",
+		"/Users/dzmitrytsurankou/Downloads/musicPlayer/app/app.routing.js": "cfb7a8fadfdafb572e7dc02c438ed5211b8efd72",
+		"/Users/dzmitrytsurankou/Downloads/musicPlayer/app/app.routing.ts": "49dfdeaa3febe6d58de3d25c1d6bad0c554f16a4",
+		"/Users/dzmitrytsurankou/Downloads/musicPlayer/app/item/item.service.js": "8320051a01c69d095bbd9bb776f89fcbbf052c50",
+		"/Users/dzmitrytsurankou/Downloads/musicPlayer/app/item/item.service.ts": "243ada1730c5b6701f032c2bf7fef28978d94034",
+		"/Users/dzmitrytsurankou/Downloads/musicPlayer/app/item/items.component.html": "fa48db6df9396bf510f44f8f8748c3cf9ed995ee",
+		"/Users/dzmitrytsurankou/Downloads/musicPlayer/app/item/items.component.js": "bac0c67edb8330e16565333228b343f86b3a60ba",
+		"/Users/dzmitrytsurankou/Downloads/musicPlayer/app/item/items.component.ts": "6785208d4429c98107b7cdbc4c4254de45cb893f",
+		"/Users/dzmitrytsurankou/Downloads/musicPlayer/app/main.aot.js": "82972974db53efeab4b1f1b29aaf4fe68351bd6d",
+		"/Users/dzmitrytsurankou/Downloads/musicPlayer/app/main.aot.ts": "ef9598ed4f3baa376c80a9ddb552f6814344d26a",
+		"/Users/dzmitrytsurankou/Downloads/musicPlayer/app/main.js": "8cf31d0af2ff0f488b3ac56bfb9cd9a7a4cd3f1b",
+		"/Users/dzmitrytsurankou/Downloads/musicPlayer/app/main.ts": "fb099974e7c219d0136362ea16211b76f6fe28e0",
+		"/Users/dzmitrytsurankou/Downloads/musicPlayer/app/package.json": "62db8f086c6c89608370f1d52d8bcf671ce139db",
+		"/Users/dzmitrytsurankou/Downloads/musicPlayer/app/songs.json": "ed4254c456751d9cd82762d063a3138184cbcf02"
+	}
+}
